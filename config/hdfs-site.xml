@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+    <!-- This configuration file can be empty or contain minimal settings.
+         The cluster's HDFS settings will be used. -->
+</configuration>

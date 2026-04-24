@@ -1,0 +1,5 @@
+# The Hadoop tarball is huge (~600MB) - never commit it
+hadoop-*.tar.gz
+
+# Docker build artifacts
+*.jar
